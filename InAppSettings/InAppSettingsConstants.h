@@ -11,7 +11,7 @@
 #define InAppSettingsRootFile @"Root"
 #define InAppSettingsProjectName @"InAppSettings"
 
-#define InAppSettingsFontSize 14.0f
+#define InAppSettingsFontSize 11.0f
 #define InAppSettingsCellPadding 9.0f
 #define InAppSettingsTablePadding 10.0f
 #define InAppSettingsCellTextFieldMinX 115.0f
